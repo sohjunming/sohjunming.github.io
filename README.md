@@ -2,6 +2,7 @@
 
 ### Education
 Bachelors Degree in Mechanical Engineering - Nanyang Technological University
+
 Data Science & Analytics for Strategic Decisions - Singapore Management University
 
 ### Work Experience
